@@ -1,5 +1,5 @@
 python3.9 manage.py makemigrations
-python3.99 manage.py migrate
+python3.9 manage.py migrate
 pip install adal==1.2.7
 pip install aiohttp==3.8.4
 pip install asgiref==3.6.0
