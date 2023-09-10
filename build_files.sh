@@ -1,4 +1,4 @@
-pip install sqlite3
+sudo apt-get install libsqlite3-dev
 pip install adal==1.2.7
 pip install aiohttp==3.8.4
 pip install asgiref==3.6.0
